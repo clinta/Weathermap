@@ -1,0 +1,32 @@
+{
+  "name": "weathermap",
+  "version": "0.98.0",
+  "description": "Network Weathermap",
+  "license": "GPLv2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1",
+    "jquery-ui": "~1.11.1",
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0",
+    "json2": "*",
+    "marionette": "~2.1.0",
+    "jquery-idletimer": "~1.0.1",
+    "jquery.colorpicker": "~1.0.9",
+    "jquery-fastlivefilter": "~1.0.3"
+  },
+  "resolutions": {
+    "jquery": ">= 1.9.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.4",
+    "chai": "~2.2.0"
+  }
+}
